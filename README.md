@@ -15,7 +15,7 @@ npm install
 For Unit Tests, run:
 
 ```bash
-npm start test
+npm test
 ```
 
 To start the app, run:
