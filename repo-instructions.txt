@@ -1,0 +1,6 @@
+1. Create repository in Gitlab or Github.
+2. Run command 'git init' to initialize the repository.
+3. Add remote origin by runnig 'git remote add origin https://github.com/dksbhrqz/node-api-with-unittests.git'
+4. Add changes to staging area runnig 'git add .'
+5. Commit changes running 'git commit -m "initial commit"'
+6. Upload changes running 'git push -u origin master'
